@@ -1,0 +1,7 @@
+ref/
+*.psd
+*.pdf
+# exclude all dlls
+*.dll   
+# pour exclure tout les fichiers d'un type sauf celui la mettre le ! devant le fichier
+!foo.dll
